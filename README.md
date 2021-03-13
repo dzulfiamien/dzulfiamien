@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzulfiamien&layout=compact&hide=html" alt="dzulfiamien" /></p>
+[![dzulfiamien's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzulfiamien)](https://github.com/dzulfiamien/github-readme-stats)
